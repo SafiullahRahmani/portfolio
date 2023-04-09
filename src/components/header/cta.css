@@ -1,0 +1,13 @@
+/* ================= MEDIA QUERIES (MEDIUM DEVICES) ======================== */
+@media screen and (max-width: 1024px) {
+  .cta {
+    size: 19px;
+  }
+}
+
+/* ================= MEDIA QUERIES (MEDIUM DEVICES) ======================== */
+@media screen and (max-width: 600px) {
+  .cta {
+    font-size: 9px;
+  }
+}
